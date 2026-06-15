@@ -100,8 +100,6 @@ A store scoring below 50 is rated **NOT VISIBLE**. Between 50–79: **NEEDS WORK
 
 > 📹 **[Watch the 60-second demo](https://github.com/nikzibret/axle/blob/main/assets/Axle_demo_v2.0.mp4)** — Axle auditing a $24M+ Shopify brand live.
 
-*Demo video placeholder — link to be added.*
-
 ---
 
 ## What's Next (v2 Roadmap)
