@@ -4,7 +4,7 @@
 
 As AI shopping agents (ChatGPT, Perplexity, Claude) replace traditional search as the primary way consumers discover products, most e-commerce stores are completely invisible to them — not because their products are bad, but because their sites were never configured for machine readability. Axle solves that.
 
-> **Status:** Working proof-of-concept. A conversational v2 with session memory and authenticated crawling is in progress.
+> 🟢 **Status:** Working proof-of-concept. A conversational v2 with session memory and authenticated crawling is in progress.
 
 ---
 
@@ -98,7 +98,7 @@ A store scoring below 50 is rated **NOT VISIBLE**. Between 50–79: **NEEDS WORK
 
 ## Demo
 
-> **[Watch the 60-second demo](https://github.com/nikzibret/axle/blob/main/assets/Axle_demo_v2.0.mp4)** — Axle auditing a $24M+ Shopify brand live.
+> 📹 **[Watch the 60-second demo](https://github.com/nikzibret/axle/blob/main/assets/Axle_demo_v2.0.mp4)** — Axle auditing a $24M+ Shopify brand live.
 
 ---
 
